@@ -1,0 +1,4 @@
+Method,Days,Exceptions,Expected,Kupiec p,Christoffersen p,Traffic light (last 250d)
+Historical simulation (500d),2500,33,25.0,0.125,0.001,yellow
+Normal (500d),2500,53,25.0,0.0,0.001,red
+EWMA normal (lambda=0.94),2500,51,25.0,0.0,0.392,yellow

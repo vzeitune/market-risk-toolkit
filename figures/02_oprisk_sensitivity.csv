@@ -1,0 +1,8 @@
+Scenario,Lambda,Sigma,99.9% VaR (USD bn),vs base,x benchmark
+Naive base case,194.6,1.892,709.68,+0%,73.2
+Frequency scale 3x,91.2,1.892,479.21,-32%,49.4
+Frequency scale 10x,304.0,1.892,939.2,+32%,96.8
+Severity sigma -10%,194.6,1.703,351.22,-51%,36.2
+Severity sigma +10%,194.6,2.082,1502.99,+112%,154.9
+Scale frequency only,194.6,1.892,109.75,-85%,11.3
+"Scale frequency only, sigma -20%",194.6,1.514,29.39,-96%,3.0
